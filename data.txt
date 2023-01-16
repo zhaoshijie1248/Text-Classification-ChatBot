@@ -1,0 +1,116 @@
+Hello|Greetings|Hello. Greeting For the day! I am Bobcat. I will serve your NYU-Tandon ECE department enquiries.
+hi hello|Greetings|Hello. I am Bobcat. Greeting For the day! I will serve your NYU-Tandon ECE department enquiries.
+hi |Greetings|Hello. I am Bobcat. Greeting For the day! I will serve your NYU-Tandon ECE department enquiries.
+hi|Greetings|Hello. I am Bobcat. Greeting For the day! I will serve your NYU-Tandon ECE department enquiries.
+hi|Greetings|Hello. I am Bobcat. Greeting For the day! I will serve your NYU-Tandon ECE department enquiries.
+hey|Greetings|Hello. I am Bobcat. Greeting For the day! I will serve your NYU-Tandon ECE department enquiries.
+hello, hi|Greetings|Hello. I am Bobcat. Greeting For the day! I will serve your NYU-Tandon ECE department enquiries.
+hey|Greetings|Hello. I am Bobcat. Greeting For the day! I will serve your NYU-Tandon ECE department enquiries.
+hey, hi|Greetings|Hello. I am Bobcat. Greeting For the day! I will serve your NYU-Tandon ECE department enquiries.
+hey, hello|Greetings|Hello. I am Bobcat. Greeting For the day! I will serve your NYU-Tandon ECE department enquiries.
+Good morning|Morning|Good Morning. I am Bobcat. Greeting For the day! I will serve your NYU-Tandon ECE department enquiries.
+Good afternoon|Afternoon|Good afternoon. I am Bobcat. Greeting For the day! I will serve your NYU-Tandon ECE department enquiries.
+Good evening|Evening|Good evening. I am Bobcat. Greeting For the day! I will serve your NYU-Tandon ECE department enquiries.
+Good night|Goodbye|Good night. Take care.
+How are you today?|Opening|I'm fine! Thank you. How may I help you?
+want help|Help|How may I help you?
+need help|Help|How may I help you?
+help me|Help|How may I help you?
+I don't want your help.|No-Help|Ok sir/madam. No problem. Have a nice day. 
+I don't want your assistance|No-Help|Ok sir/madam. No problem. Have a nice day.
+No help required|No-Help|Ok sir/madam. No problem. Have a nice day.
+It has been great talking to you.|Closing|It's glad to know that I have been helpful. Have a good day!
+great|Closing|It's glad to know that I have been helpful. Have a good day!
+thank you for your help|Closing|It's glad to know that I have been helpful. Have a good day!
+thank you|Closing|It's glad to know that I have been helpful. Have a good day!
+thank you very much|Closing|It's glad to know that I have been helpful. Have a good day!
+thanks.|Closing|You're welcome!It's glad to know that I have been helpful. Have a good day!
+thanks very much|Closing|It's glad to know that I have been helpful. Have a good day!
+Where is ECE department?|Location|The ECE Department located is on the 8th Floor at 370 Jay Street 2nd Floor at 5 Metrotech Center.
+What is location of ECE department?|Location|The ECE Department located is on the 8th Floor at 370 Jay Street 2nd Floor at 5 Metrotech Center.
+ECE department?|Location|The ECE Department located is on the 8th Floor at 370 Jay Street 2nd Floor at 5 Metrotech Center.
+ECE|Location|The ECE Department located is on the 8th Floor at 370 Jay Street 2nd Floor at 5 Metrotech Center.
+where is ece?|Location|The ECE Department located is on the 8th Floor at 370 Jay Street & 2nd Floor at 5 Metrotech Center.
+What are the operational hours of ece?|timings|There is always someone to attend you from 9am till 5pm.
+when can I contact ECE department?|timings|There is always someone to attend you from 9am till 5pm.
+how to contact the department?|Contact-Department|You can contact department virtually via by calling - 646-997-3878
+How to call the department?|Contact-Department| You can contact department virtually via by calling - 646-997-3878
+How can I call the department?|Contact-Department|You can contact department virtually via by calling - 646-997-3878
+Tell me the phone number for the department?|Contact-Department|You can contact department virtually via by calling - 646-997-3878
+How to contact?|Contact-Department|You can contact department virtually via by calling - 646-997-3878
+contact|Contact-Department|You can contact department virtually via by calling - 646-997-3878
+phone number|Contact-Department|You can contact department virtually via by calling - 646-997-3878
+department phone|Contact-Department|You can contact department virtually via by calling - 646-997-3878
+phone number of department|Contact-Department|You can contact department virtually via by calling - 646-997-3878
+Who is the department head?|Department-Head|Prof.Ivan Selesnick is the Head of ECE Department. You can find more details on him at: https://eeweb.engineering.nyu.edu/iselesni/
+Department head|Department-Head|Prof.Ivan Selesnick is the Head of ECE Department. You can find more details on him at: https://eeweb.engineering.nyu.edu/iselesni/
+Head of the department|Prof.Ivan Selesnick is the Head of ECE Department. You can find more details on him at: https://eeweb.engineering.nyu.edu/iselesni/
+H.O.D|Department-Head|Prof.Ivan Selesnick is the Head of ECE Department. You can find more details on him at: https://eeweb.engineering.nyu.edu/iselesni/
+Department Chair|Department-Head|Prof.Ivan Selesnick is the Head of ECE Department. You can find more details on him at: https://eeweb.engineering.nyu.edu/iselesni/
+Department |Department-Head|Prof.Ivan Selesnick is the Head of ECE Department. You can find more details on him at: https://eeweb.engineering.nyu.edu/iselesni/
+Ivan Selesnick |Department-Head|Prof. Ivan Selesnick is the Head of ECE Department. You can find more details on him at: https://eeweb.engineering.nyu.edu/iselesni/
+Professor Ivan Selesnick|Department-Head|Prof. Ivan Selesnick is the Head of ECE Department. You can find more details on him at: https://eeweb.engineering.nyu.edu/iselesni/
+Ivan|Department-Head|Prof. Ivan Selesnick is the Head of ECE Department. You can find more details on him at: https://eeweb.engineering.nyu.edu/iselesni/
+Selesnick|Department-Head|Prof. Ivan Selesnick is the Head of ECE Department. You can find more details on him at: https://eeweb.engineering.nyu.edu/iselesni/
+Prof Ivan|Department-Head|Prof. Ivan Selesnick is the Head of ECE Department. You can find more details on him at: https://eeweb.engineering.nyu.edu/iselesni/
+Which room does professor Ivan occupy|Department-Head|Prof. Ivan Selesnick is the Head of ECE Department. You can find more details on him at: https://eeweb.engineering.nyu.edu/iselesni/
+professor Ivan office hours|Department-Head|Prof. Ivan Selesnick is the Head of ECE Department. You can find more details on him at: https://eeweb.engineering.nyu.edu/iselesni/
+Meet professor Ivan|Department-Head|Prof. Ivan Selesnick is the Head of ECE Department. You can find more details on him at: https://eeweb.engineering.nyu.edu/iselesni/
+Where to meet prof Ivan|Department-Head|Prof. Ivan Selesnick is the Head of ECE Department. You can find more details on him at: https://eeweb.engineering.nyu.edu/iselesni/
+Contact professor Ivan|Department-Head|Prof. Ivan Selesnick is the Head of ECE Department. You can find more details on him at: https://eeweb.engineering.nyu.edu/iselesni/
+Contact ivan selesnick|Department-Head|Prof. Ivan Selesnick is the Head of ECE Department. You can find more details on him at: https://eeweb.engineering.nyu.edu/iselesni/
+Meet Ivan selesnick|Department-Head|Prof. Ivan Selesnick is the Head of ECE Department. You can find more details on him at: https://eeweb.engineering.nyu.edu/iselesni/
+email of Prof Ivan|Department-Head|Prof. Ivan Selesnick is the Head of ECE Department. You can find more details on him at: https://eeweb.engineering.nyu.edu/iselesni/
+email ivan|Department-Head|Prof. Ivan Selesnick is the Head of ECE Department. You can find more details on him at: https://eeweb.engineering.nyu.edu/iselesni/
+call Ivan|Department-Head|Prof. Ivan Selesnick is the Head of ECE Department. You can find more details on him at: https://eeweb.engineering.nyu.edu/iselesni/
+Sundeep Rangan |Sundeep-Rangan|Prof. Sundeep Rangan is an Associate Professor and director at NYU Wireless. You can find more details on him at: https://wireless.engineering.nyu.edu/sundeep-rangan/
+Professor Sundeep Rangan|Sundeep-Rangan|Prof. Sundeep Rangan is an Associate Professor and director at NYU Wireless. You can find more details on him at: https://wireless.engineering.nyu.edu/sundeep-rangan/
+Sundeep|Sundeep-Rangan|Prof. Sundeep Rangan is an Associate Professor and director at NYU Wireless. You can find more details on him at: https:https://wireless.engineering.nyu.edu/sundeep-rangan/
+Rangan|Sundeep-Rangan|Prof. Sundeep Rangan is an Associate Professor and director at NYU Wireless. You can find more details on him at: https:https://wireless.engineering.nyu.edu/sundeep-rangan/
+Prof Sundeep|Sundeep-Rangan|Prof. Sundeep Rangan is an Associate Professor and director at NYU Wireless. You can find more details on him at: https:https://wireless.engineering.nyu.edu/sundeep-rangan/
+Prof Rangan|Sundeep-Rangan|Prof. Sundeep Rangan is an Associate Professor and director at NYU Wireless.You can find more on him at:https://wireless.engineering.nyu.edu/sundeep-rangan/
+Which room does professor Rangan occupy|Sundeep-Rangan|Prof. Sundeep Rangan is an Associate Professor and director at NYU Wireless. You can find more details on him at: https://wireless.engineering.nyu.edu/sundeep-rangan/
+professor Sundeep office hours|Sundeep-Rangan|Prof. Sundeep Rangan is an Associate Professor and director at NYU Wireless. You can find more details on him at: https://wireless.engineering.nyu.edu/sundeep-rangan/
+Meet professor Sundeep|Sundeep-Rangan|Prof. Sundeep Rangan is an Associate Professor and director at NYU Wireless. You can find more details on him at: https://wireless.engineering.nyu.edu/sundeep-rangan/
+Where to meet prof Sundeep|Sundeep-Rangan|Prof. Sundeep Rangan is an Associate Professor and director at NYU Wireless. You can find more details on him at: https://wireless.engineering.nyu.edu/sundeep-rangan/
+Contact professor Sundeep|Sundeep-Rangan|Prof. Sundeep Rangan is an Associate Professor and director at NYU Wireless. You can find more details on him at: https://wireless.engineering.nyu.edu/sundeep-rangan/
+Contact Sundeep Rangan|Sundeep-Rangan|Prof. Sundeep Rangan is an Associate Professor and director at NYU Wireless. You can find more details on him at: https://wireless.engineering.nyu.edu/sundeep-rangan/
+Meet Sundeep Rangan|Sundeep-Rangan|Prof. Sundeep Rangan is an Associate Professor and director at NYU Wireless. You can find more details on him at: https://wireless.engineering.nyu.edu/sundeep-rangan/
+email of Prof Sundeep|Sundeep-Rangan|Prof. Sundeep Rangan is an Associate Professor and director at NYU Wireless. You can find more details on him at: https://wireless.engineering.nyu.edu/sundeep-rangan/
+email Sundeep|Sundeep-Rangan|Prof. Sundeep Rangan is an Associate Professor and director at NYU Wireless. You can find more details on him at: https://wireless.engineering.nyu.edu/sundeep-rangan/
+call Sundeep|Sundeep-Rangan|Prof. Sundeep Rangan is an Associate Professor and director at NYU Wireless. You can find more details on him at: https://wireless.engineering.nyu.edu/sundeep-rangan/
+Yury Dvorkin |Yury-Dvorkin|Prof. Yury Dvorkin is an Assistant Professor and affiliated appointment at NYU CUSP. You can find more details on him at: https://wp.nyu.edu/dvorkin/about-yury/
+Professor Yury Dvorkin|Yury-Dvorkin|Prof. Yury Dvorkin is an Assistant Professor and affiliated appointment at NYU CUSP. You can find more details on him at: https://wp.nyu.edu/dvorkin/about-yury/
+Yury|Yury-Dvorkin|Prof. Yury Dvorkin is an Assistant Professor and affiliated appointment at NYU CUSP. You can find more details on him at: https://wp.nyu.edu/dvorkin/about-yury/
+Dvorkin|Yury-Dvorkin|Prof. Yury Dvorkin is an Assistant Professor and affiliated appointment at NYU CUSP. You can find more details on him at: https://wp.nyu.edu/dvorkin/about-yury/
+Prof Yury|Yury-Dvorkin|Prof. Yury Dvorkin is an Assistant Professor and affiliated appointment at NYU CUSP. You can find more details on him at: https://wp.nyu.edu/dvorkin/about-yury/
+Prof Dvorkin|Yury-Dvorkin|Prof. Yury Dvorkin is an Assistant Professor and affiliated appointment at NYU CUSP. You can find more on him at: https://wp.nyu.edu/dvorkin/about-yury/
+Which room does professor Yury occupy|Yury-Dvorkin|Prof. Yury Dvorkin is an Assistant Professor and affiliated appointment at NYU CUSP. You can find more details on him at: https://wp.nyu.edu/dvorkin/about-yury/
+professor Yury office hours|Yury-Dvorkin|Prof. Yury Dvorkin is an Assistant Professor and affiliated appointment at NYU CUSP. You can find more details on him at: https://wp.nyu.edu/dvorkin/about-yury/
+Meet professor Yury |Yury-Dvorkin|Prof. Yury Dvorkin is an Assistant Professor and affiliated appointment at NYU CUSP. You can find more details on him at: https://wp.nyu.edu/dvorkin/about-yury/
+Where to meet prof Yury|Yury-Dvorkin|Prof. Yury Dvorkin is an Assistant Professor and affiliated appointment at NYU CUSP. You can find more details on him at: https://wp.nyu.edu/dvorkin/about-yury/
+Contact professor Yury |Yury-Dvorkin|Prof. Yury Dvorkin is an Assistant Professor and affiliated appointment at NYU CUSP. You can find more details on him at: https://wp.nyu.edu/dvorkin/about-yury/
+Contact Dvorkin|Yury-Dvorkin|Prof. Yury Dvorkin is an Assistant Professor and affiliated appointment at NYU CUSP. You can find more details on him at: https://wp.nyu.edu/dvorkin/about-yury/
+Meet Yury |Yury-Dvorkin|Prof. Yury Dvorkin is an Assistant Professor and affiliated appointment at NYU CUSP. You can find more details on him at: https://wp.nyu.edu/dvorkin/about-yury/
+email of Prof Yury|Yury-Dvorkin|Prof. Yury Dvorkin is an Assistant Professor and affiliated appointment at NYU CUSP. You can find more details on him at: https://wp.nyu.edu/dvorkin/about-yury/
+email Yury |Yury-Dvorkin|Prof. Yury Dvorkin is an Assistant Professor and affiliated appointment at NYU CUSP. You can find more details on him at: https://wp.nyu.edu/dvorkin/about-yury/
+call Yury|Yury-Dvorkin|Prof. Yury Dvorkin is an Assistant Professor and affiliated appointment at NYU CUSP. You can find more details on him at: https://wp.nyu.edu/dvorkin/about-yury/
+Ludovic Righetti |Ludovic-Righetti|Prof.Ludovic Righetti is an Associate Professor in the ECE & MAE Department and, a Senior Researcher at the Max-Planck Institute for Intelligent Systems (MPI-IS). You can find more details on him at: https://wp.nyu.edu/machinesinmotion/
+Professor Ludovic Righetti|Ludovic-Righetti|Prof.Ludovic Righetti is an Associate Professor in the ECE & MAE Department and, a Senior Researcher at the Max-Planck Institute for Intelligent Systems (MPI-IS). You can find more details on him at: https://wp.nyu.edu/machinesinmotion/
+Ludovic |Ludovic-Righetti|Prof.Ludovic Righetti is an Associate Professor in the ECE & MAE Department and, a Senior Researcher at the Max-Planck Institute for Intelligent Systems (MPI-IS).  You can find more details on him at: https://wp.nyu.edu/machinesinmotion/
+Righetti|Ludovic-Righetti|Prof.Ludovic Righetti is an Associate Professor in the ECE & MAE Department and, a Senior Researcher at the Max-Planck Institute for Intelligent Systems (MPI-IS).  You can find more details on him at: https://wp.nyu.edu/machinesinmotion/
+Prof Ludovic|Ludovic-Righetti|Prof.Ludovic Righetti is an Associate Professor in the ECE & MAE Department and, a Senior Researcher at the Max-Planck Institute for Intelligent Systems (MPI-IS).  You can find more details on him at: https://wp.nyu.edu/machinesinmotion/
+Prof Righetti|Ludovic-Righetti|Prof.Ludovic Righetti is an Associate Professor in the ECE & MAE Department and, a Senior Researcher at the Max-Planck Institute for Intelligent Systems (MPI-IS).  You can find more on him at: https://wp.nyu.edu/machinesinmotion/
+Which room does professor Ludovic occupy|Ludovic-Righetti|Prof.Ludovic Righetti is an Associate Professor in the ECE & MAE Department and, a Senior Researcher at the Max-Planck Institute for Intelligent Systems (MPI-IS).  You can find more details on him at: https://wp.nyu.edu/machinesinmotion/
+professor Ludovic office hours|Ludovic-Righetti|Prof.Ludovic Righetti is an Associate Professor in the ECE & MAE Department and, a Senior Researcher at the Max-Planck Institute for Intelligent Systems (MPI-IS). You can find more details on him at: https://wp.nyu.edu/machinesinmotion/
+Meet professor Ludovic |Ludovic-Righetti|Prof.Ludovic Righetti is an Associate Professor in the ECE & MAE Department and, a Senior Researcher at the Max-Planck Institute for Intelligent Systems (MPI-IS).  You can find more details on him at: https://wp.nyu.edu/machinesinmotion/
+Where to meet prof Ludovic|Ludovic-Righetti|Prof.Ludovic Righetti is an Associate Professor in the ECE & MAE Department and, a Senior Researcher at the Max-Planck Institute for Intelligent Systems (MPI-IS).  You can find more details on him at: https://wp.nyu.edu/machinesinmotion/
+Contact professor Ludovic|Ludovic-Righetti|Prof.Ludovic Righetti is an Associate Professor in the ECE & MAE Department and, a Senior Researcher at the Max-Planck Institute for Intelligent Systems (MPI-IS).  You can find more details on him at: https://wp.nyu.edu/machinesinmotion/
+Contact Ludovic Righetti|Ludovic-Righetti|Prof.Ludovic Righetti is an Associate Professor in the ECE & MAE Department and, a Senior Researcher at the Max-Planck Institute for Intelligent Systems (MPI-IS).  You can find more details on him at: https://wp.nyu.edu/machinesinmotion/
+Meet Ludovic |Ludovic-Righetti|Prof.Ludovic Righetti is an Associate Professor in the ECE & MAE Department and, a Senior Researcher at the Max-Planck Institute for Intelligent Systems (MPI-IS). You can find more details on him at: https://wp.nyu.edu/machinesinmotion/
+email of Prof Righetti|Ludovic-Righetti|Prof.Ludovic Righetti is an Associate Professor in the ECE & MAE Department and, a Senior Researcher at the Max-Planck Institute for Intelligent Systems (MPI-IS).  You can find more details on him at: https://wp.nyu.edu/machinesinmotion/
+email Ludovic|Ludovic-Righetti|Prof.Ludovic Righetti is an Associate Professor in the ECE & MAE Department and, a Senior Researcher at the Max-Planck Institute for Intelligent Systems (MPI-IS).  You can find more details on him at: https://wp.nyu.edu/machinesinmotion/
+call Ludovic|Ludovic-Righetti|Prof.Ludovic Righetti is an Associate Professor in the ECE & MAE Department and, a Senior Researcher at the Max-Planck Institute for Intelligent Systems (MPI-IS).  You can find more details on him at: https://wp.nyu.edu/machinesinmotion/
+
+
+
